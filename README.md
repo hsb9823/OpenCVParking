@@ -11,7 +11,7 @@
 **3️⃣-2 번호판 후보영역 검색 <ins>함수 작성<train_plate_data.py>, 실행 <opencv/project/find_plates.py></ins>**</br>
 **-find_candidates()함수를 통해 번호판 후보 영역 검색**</br>
 **3️⃣-3 후보영역 영상 생성 <ins><opencv/project/correct_plate.py></ins>**</br>
-**-<header/plate_candidate.py>에서 생성한 후보 영역을 회전 시켜 기울기를 보정하여 영상을 생성시키고 번호판 사진을 표시**
+**-<header/plate_candidate.py>에서 생성한 후보 영역을 회전 시켜 기울기를 보정하여 영상을 생성시키고 번호판 사진을 표시**</br>
 **3️⃣-4 후보 영상 번호판 판별**</br>
 **4️⃣ 번호판 영상 표시** </br>
 5️⃣
