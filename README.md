@@ -3,10 +3,10 @@
 ## opecv >> project >> parking.py 실행
 
 ## 번호판 검출 과정
-1️⃣ 번호판 영상 수집
-2️⃣ 번호판 영상 학습 (SVM-Support Vector Machine 분류 이용)
-3️⃣ 번호판 분류 
-3️⃣-1
+1️⃣ 번호판 영상 수집 </br>
+2️⃣ 번호판 영상 학습 (SVM-Support Vector Machine 분류 이용) </br>
+3️⃣ 번호판 분류 </br>
+3️⃣-1 </br>
 4️⃣
 5️⃣
 6️⃣
