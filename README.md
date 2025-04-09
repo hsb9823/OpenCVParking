@@ -20,4 +20,5 @@
 **6️⃣ 시뮬레이션**</br>
 **-프로그램의 동작을 확인하기 위해 D라는 딕셔너리 생성, 주차 위치를 생성**</br>
 ![Image](https://github.com/user-attachments/assets/42d1b9cb-1950-42ce-ba3d-6869157a057e)</br>
-**7️⃣ 결과**
+**7️⃣ 결과**</br>
+![Image](https://github.com/user-attachments/assets/c619c62b-7acc-4ef3-846c-8880aedb1efd)
