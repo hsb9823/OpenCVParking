@@ -19,7 +19,5 @@
 **5️⃣ 번호판의 문자 데이터를 <ins><header/plate_classify.py></ins>에서 str데이터로 저장**</br>
 **6️⃣ 시뮬레이션**</br>
 **-프로그램의 동작을 확인하기 위해 D라는 딕셔너리 생성, 주차 위치를 생성**</br>
-7️⃣
-8️⃣ㄴ
-9️⃣
-🔟
+![Image](https://github.com/user-attachments/assets/42d1b9cb-1950-42ce-ba3d-6869157a057e)</br>
+**7️⃣ 결과**
