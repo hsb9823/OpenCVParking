@@ -4,7 +4,7 @@
 
 ## 번호판 검출 과정
 **1️⃣ 번호판 영상 수집** </br>
-**2️⃣ 번호판 영상 학습** (SVM-Support Vector Machine 분류 이용) <train_plate_data.py> </br>
+**2️⃣ 번호판 영상 학습 (SVM-Support Vector Machine 분류 이용) <train_plate_data.py>** </br>
 **3️⃣ 번호판 분류** </br>
 **3️⃣-1 차량 사진 입력 및 전처리**</br>
 **3️⃣-2 번호판 후보영역 검색**</br>
